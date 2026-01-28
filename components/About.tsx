@@ -9,10 +9,10 @@ const About: React.FC = () => {
           <div className="lg:w-1/2 reveal">
             <h2 className="text-sm font-bold tracking-widest text-blue-500 uppercase mb-4">About Me</h2>
             <h3 className="text-3xl md:text-4xl font-bold text-white mb-6">
-              Engineering Excellence in <br/><span className="text-blue-400">Mobile Development</span>
+              Specialized Excellence in <br/><span className="text-blue-400">Mobile Development</span>
             </h3>
             <p className="text-slate-400 text-lg leading-relaxed mb-6">
-              I am a Senior Mobile Developer with 3+ years of experience specialized in Flutter cross-platform development. My journey involves crafting complex applications for eCommerce, HR, Home Services, and Real-Time Communications.
+              I am a Mid-level Mobile Developer with 3+ years of experience specialized in Flutter cross-platform development. My journey involves crafting complex applications for eCommerce, HR, Home Services, and Real-Time Communications.
             </p>
             <p className="text-slate-400 text-lg leading-relaxed mb-8">
               My philosophy centers around clean architecture, maintainable code, and rigorous performance optimization. I have a proven track record of managing the full application lifecycle, from initial concept to successful deployment on the Google Play Store and Apple App Store.

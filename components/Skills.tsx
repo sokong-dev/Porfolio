@@ -25,7 +25,7 @@ const skillCategories: SkillCategory[] = [
   },
   {
     title: "Deployment & IDEs",
-    skills: ["Play Console / App Store Connect", "VS Code / Android Studio", "Xcode / Fastlane"]
+    skills: ["Play Console / App Store Connect", "VS Code / Android Studio", "Xcode / Transporter"]
   }
 ];
 

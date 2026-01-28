@@ -23,4 +23,6 @@ export interface Project {
   appStoreUrl?: string;
   googlePlayUrl?: string;
   detailsUrl?: string;
+  status: 'published' | 'developing';
+  sourceCodeUrl?: string;
 }
