@@ -18,7 +18,7 @@ const Navbar: React.FC = () => {
     { name: 'Skills', href: '#skills' },
     { name: 'Experience', href: '#experience' },
     { name: 'Projects', href: '#projects' },
-    { name: 'Contact', href: '#contact' },
+   // { name: 'Contact', href: '#contact' },
   ];
 
   return (
@@ -40,7 +40,8 @@ const Navbar: React.FC = () => {
             </a>
           ))}
           <a
-            href="#contact"
+             href='https://t.me/sokong_run'
+              target="_blank"
             className="px-5 py-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold rounded-full transition-all"
           >
             Hire Me

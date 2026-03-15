@@ -5,11 +5,11 @@ import { SkillCategory } from '../types';
 const skillCategories: SkillCategory[] = [
   {
     title: "Mobile Development",
-    skills: ["Dart & Flutter", "Kotlin (Android Native)", "Flutter Flavor Configuration (dev/staging/prod)"]
+    skills: ["Dart & Flutter", "Android Development (Jetpack Compose and Kotlin)", "Flutter Flavor Configuration "]
   },
   {
     title: "Architecture & Data",
-    skills: ["Modular Architecture", "State Management (Getx/Provider)", "Local Storage (SQLite & Hive)"]
+    skills: ["MVVM Architecture", "State Management (Getx/Provider)", "Local Storage (SQLite & Hive & Drift)"]
   },
   {
     title: "Real-Time & Communication",
@@ -21,7 +21,7 @@ const skillCategories: SkillCategory[] = [
   },
   {
     title: "Tools & Services",
-    skills: ["GitHub / GitLab", "Firebase & GA4", "Postman / Apidog"]
+    skills: ["GitHub / GitLab ( CI/CD)", "Firebase & GA4", "Postman / Apidog"]
   },
   {
     title: "Deployment & IDEs",

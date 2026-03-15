@@ -6,9 +6,9 @@ const experiences: ExperienceType[] = [
   {
     role: "Mobile Developer",
     company: "Suntel Technology Cambodia",
-    period: "May 2024 – Present",
+    period: "May 2025 – Present",
     description: [
-      "Developing mission-critical Flutter apps including Home Service, HR, Partner, and Chat platforms.",
+      "Developing mission-critical Flutter apps including Home Service, HR, Partner, Coffee app ,and Chat platforms.",
       "Implementing real-time communication using Zego Cloud for voice/video calls.",
       "Applying modular architecture patterns to ensure codebase scalability and testability.",
       "Optimizing application performance for a diverse range of Android and iOS devices."
@@ -17,7 +17,7 @@ const experiences: ExperienceType[] = [
   {
     role: "Mobile Developer",
     company: "CloudNET",
-    period: "Sep 2022 – Feb 2024",
+    period: "January 2024 – April 2025",
     description: [
       "Developed comprehensive eCommerce features including product listings, cart systems, and payment integrations.",
       "Integrated Firebase Authentication and Cloud Messaging (FCM) for personalized user experiences.",

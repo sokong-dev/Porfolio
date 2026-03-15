@@ -19,6 +19,7 @@ export interface Experience {
 export interface Project {
   name: string;
   description: string;
+  image?: string;
   tags: string[];
   appStoreUrl?: string;
   googlePlayUrl?: string;
@@ -26,3 +27,13 @@ export interface Project {
   status: 'published' | 'developing';
   sourceCodeUrl?: string;
 }
+export interface EducationItem {
+  degree: string;
+  institution: string;
+  period: string;
+  description: string;
+  color: 'blue' | 'indigo';
+  iconType:String;
+  delay: string;
+}
+
