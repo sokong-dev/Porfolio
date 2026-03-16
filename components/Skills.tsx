@@ -9,7 +9,7 @@ const skillCategories: SkillCategory[] = [
   },
   {
     title: "Architecture & Data",
-    skills: ["MVVM Architecture", "State Management (Getx/Provider)", "Local Storage (SQLite & Hive & Drift)"]
+    skills: ["MVVM Architecture", "State Management (Getx/Provider)", "Local Storage (SQLite , Hive & Drift)"]
   },
   {
     title: "Real-Time & Communication",
