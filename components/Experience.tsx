@@ -9,7 +9,7 @@ const experiences: ExperienceType[] = [
     period: "May 2025 – Present",
     description: [
       "Developing mission-critical Flutter apps including Home Service, HR, Partner, Coffee app ,and Chat platforms.",
-      "Implementing real-time communication using Zego Cloud for voice/video calls.",
+      "Implementing real-time communication with WebSocket and using Zego Cloud for voice/video calls.",
       "Applying MVVM architecture patterns to ensure codebase scalability and testability.",
       "Optimizing application performance for a diverse range of Android and iOS devices."
     ]
