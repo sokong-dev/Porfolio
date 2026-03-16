@@ -10,7 +10,7 @@ const experiences: ExperienceType[] = [
     description: [
       "Developing mission-critical Flutter apps including Home Service, HR, Partner, Coffee app ,and Chat platforms.",
       "Implementing real-time communication using Zego Cloud for voice/video calls.",
-      "Applying modular architecture patterns to ensure codebase scalability and testability.",
+      "Applying MVVM architecture patterns to ensure codebase scalability and testability.",
       "Optimizing application performance for a diverse range of Android and iOS devices."
     ]
   },
